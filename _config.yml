@@ -36,8 +36,8 @@ kramdown:
 # to override the default setting.
 exclude:
   - vendor
-#   - Gemfile
-#   - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
